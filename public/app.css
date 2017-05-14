@@ -1,0 +1,13 @@
+.full-screen {
+   background-color: white;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   right: 0;
+   left: 0;
+}
+
+.product-list,
+.edit-comment {
+   margin: 20px;
+}
